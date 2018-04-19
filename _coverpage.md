@@ -1,4 +1,4 @@
-![詹妮弗康奈利](http://www.interbible.org/interBible/source/culture/2014/clt_140228b.jpg)
+![詹妮弗康奈利](120.jpg)
 > :memo: walker的wiki :grinning:
 ```mermaid
 graph TD
