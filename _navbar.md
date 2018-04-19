@@ -1,4 +1,4 @@
 * [首页](/)
 * [简历](/Resume)
-* [wiki](/wiki)
-* [docs](/docs)
+* [wiki](wiki)
+* [docs](docs)
