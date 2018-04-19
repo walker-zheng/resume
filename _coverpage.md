@@ -1,6 +1,5 @@
 ![詹妮弗康奈利](120.png)
-# walker的wiki
-> 个人笔记页面
+> :memo: walker的wiki :grinning:
 
 ```mermaid
 graph TD
