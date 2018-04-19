@@ -16,7 +16,7 @@
 ## 安装使用electron-vue
   - 将chrome扩展vue-devtools 拷贝到 %USERPROFILE%\AppData\Roaming\Electron\extensions
 ## ffmpeg-streaming
- - ```ffmpeg -re -i /e/download/BT/puretaboo.18.02.01.piper.perri.fall.down.dad\[tk\]\[480p\].mp4 -vcodec libx264 -acodec aac -f flv rtmp://localhost/live/stream```
+ - ```ffmpeg -re -i /e/download/BT/钢之炼金术师.mp4 -vcodec libx264 -acodec aac -f flv rtmp://localhost/live/stream```
 
 # 序列图和甘特图
 ```mermaid
