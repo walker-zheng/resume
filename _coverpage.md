@@ -7,4 +7,3 @@ C -->|1| D[surface]
 C -->|2| E[iPhone]
 C -->|3| F[gtx1080]
 ```
-
