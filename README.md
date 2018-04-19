@@ -18,20 +18,7 @@
 ## ffmpeg-streaming
  - ```ffmpeg -re -i /e/download/BT/钢之炼金术师.mp4 -vcodec libx264 -acodec aac -f flv rtmp://localhost/live/stream```
 
-# 序列图和甘特图
-```mermaid
-sequenceDiagram
-    participant Alice
-    participant Bob
-    Alice->>John: 你好,John
-    loop 体检
-        John->>John: 自闭斗争
-    end
-    Note right of John: 战胜病魔
-    John-->>Alice: 还可以
-    John->>Bob: 你呢?
-    Bob-->>John: 好滴很!
-```
+# 甘特图
 ```mermaid
 gantt
         dateFormat  YYYY-MM-DD
