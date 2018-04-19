@@ -10,20 +10,11 @@
   <link rel="stylesheet" href="css/mermaid.forest.css">
 </head>
 <body>
-  <nav>
-      <a href="#/">主页</a>
-      <a href="#/Resume">简历</a>
-      <a href="/code">docs</a>
-      <a href="https://github.com/walker-zheng/code/wiki">code.wiki</a>
-      <a href="/wiki">旧wiki</a>
-      <a href="/note">旧note</a>
-      <a href="#/C++面试50问">Other</a>
-    </nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
       coverpage: true,
-      loadNavbar: false,
+      loadNavbar: true,
       disqus: 'shortname',
       name: '',
       repo: '',
@@ -46,14 +37,15 @@
               return html
             }
             var hl = Prism.highlight(code, Prism.languages[lang] || Prism.languages.markup)
-            return html +  + '<pre v-pre data-lang="' + lang + '"><code class="lang-' + lang + '">' + hl + '</code></pre>'
+            return html + '<pre v-pre data-lang="' + lang + '"><code class="lang-' + lang + '">' + hl + '</code></pre>'
           }
         }
       }
     }
   </script>
+  <script src="js/mermaid.min.js"></script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
-  <script src="js/mermaid.min.js"></script>
+  
 </body>
 </html>
