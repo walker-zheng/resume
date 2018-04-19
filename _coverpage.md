@@ -2,7 +2,6 @@
 # walker的wiki
 > 个人笔记页面
 
-- 流程图
 ```mermaid
 graph TD
 A[月底] -->|发工资了| B(买买买)
