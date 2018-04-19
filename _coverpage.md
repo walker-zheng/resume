@@ -2,9 +2,9 @@
 > :memo: walker的wiki :grinning:
 ```mermaid
 graph TD
-B[发工资了shopping] --> C{买哪个}
-C -->|1| D[笔记本]
-C -->|2| E[iPhone]
-C -->|3| F[显卡]
+B[买买买] --> C|发工资了|{买哪个}
+C -->|1| D[surface]
+C -->|2| E[iphone]
+C -->|3| F[gtx1080]
 ```
 
