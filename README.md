@@ -1,3 +1,9 @@
+<h3 align="center">walker-zheng.github.io</h3>
+<p align="center">
+    <a href="https://gitter.im/walker-zheng/Lobby"><img src="https://badges.gitter.im/walker-zheng/Lobby.svg"></a>
+    <a href="https://github.com/walker-zheng/walker-zheng.github.io/blob/master/LICENSE"><img src="https://img.shields.io/github/license/walker-zheng/walker-zheng.github.io.svg??colorB=brightgreen"></a>
+</p>
+
 # 有趣的技术方向
 - openstack云计算
 - rtsp/rtmp/hls直播服务 网络授课
@@ -11,7 +17,8 @@
 - IPFS星际文件系统(bt+git)， filecoin激励挖矿，自动扩张性，blockchain最佳载体
 - vue [ant.design(element/iview), google UI] 组件化mvvm前端设计, storybook对象可视化, admin后台cms
 
-  
+[](滚滚.mp4 ':include')
+
 # 配置使用
 ## 安装使用electron-vue
   - 将chrome扩展vue-devtools 拷贝到 %USERPROFILE%\AppData\Roaming\Electron\extensions

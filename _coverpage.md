@@ -2,8 +2,8 @@
 > :memo: walker的wiki :grinning:
 ```mermaid
 graph TD
-B[购物] -->|发工资了| C{买哪个}
-C -->|1| D[surface]
-C -->|2| E[iPhone]
-C -->|3| F[gtx1080]
+B[打开页面] -->|标签| C{选哪个}
+C -->|1| D[code.wiki]
+C -->|2| E[wikis]
+C -->|3| F[生活杂书]
 ```
