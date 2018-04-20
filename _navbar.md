@@ -6,6 +6,7 @@
   * [配置](wikis/配置)
   * [代码片段](wikis/代码片段)
   * [一天学会](wikis/一天学会)
+  * [md语法](wikis/md语法)
   * [github秘籍](wikis/github秘籍)
   * [Git奇淫巧技](wikis/Git奇淫巧技)
   * [Git飞行规则](wikis/Git飞行规则)
