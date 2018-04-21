@@ -2,6 +2,7 @@
 * [简历](/Resume)
 * [code.wiki](https://github.com/walker-zheng/code/wiki)
 * [wikis](wikis/)
+  * [CPP](wikis/CPP)
   * [图解](wikis/图解)
   * [配置](wikis/配置)
   * [代码片段](wikis/代码片段)
