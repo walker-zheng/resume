@@ -1,6 +1,8 @@
 * [首页]()
 * [简历](/Resume)
 * [code.wiki](https://github.com/walker-zheng/code/wiki)
+* [导图](/mindmap)
+* [书籍](/books)
 * [wikis](wikis/)
   * [CPP](wikis/CPP)
   * [图解](wikis/图解)
