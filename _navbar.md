@@ -3,6 +3,8 @@
 * [code.wiki](https://github.com/walker-zheng/code/wiki)
 * [导图](/mindmap)
 * [书籍](/books)
+* [笔记](/md)
+  * [机器学习](md/机器学习)
 * [wikis](wikis/)
   * [CPP](wikis/CPP)
   * [图解](wikis/图解)
