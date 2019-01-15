@@ -4,6 +4,7 @@
   * [知识导图](md/mindmap)
   * [机器学习](md/机器学习)
 * [wiki](wiki/)
+  * [keys](wiki/keys)
   * [图解](wiki/图解)
   * [配置](wiki/配置)
   * [一天学会](wiki/一天学会)
