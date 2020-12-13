@@ -4,6 +4,7 @@
   * [国富论](books/国富论)
   * [枪炮病菌与钢铁](books/枪炮病菌与钢铁)
   * [社会概念](books/社会概念)
+  * [食物](books/食物)
 * [wiki](wiki/)
   * [Git奇淫巧技](wiki/Git奇淫巧技)
   * [Git飞行规则](wiki/Git飞行规则)
