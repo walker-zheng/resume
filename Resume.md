@@ -2,7 +2,7 @@
 ---
 - 手机: `18516147671`
 - Email: [walker.zheng@hotmail.com](mailto:walker.zheng@hotmail.com)
-- 期望职位：资深C++开发工程师，服务端开发工程师，系统架构师
+- 期望职位：资深C++开发工程师
 
 ### 简介
 ---
